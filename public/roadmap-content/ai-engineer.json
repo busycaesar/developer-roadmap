@@ -906,6 +906,11 @@
         "title": "Ollama: Easily run LLMs locally",
         "url": "https://klu.ai/glossary/ollama",
         "type": "article"
+      },
+      {
+        "title": "What is Ollama? Running Local LLMs Made Simple",
+        "url": "https://www.youtube.com/watch?v=5RIOQuHOihY",
+        "type": "video"
       }
     ]
   },
@@ -1265,7 +1270,7 @@
     "links": [
       {
         "title": "Supabase Vector",
-        "url": "https://supabase.com/vector",
+        "url": "https://supabase.com/docs/guides/ai",
         "type": "article"
       },
       {
@@ -1685,7 +1690,7 @@
     "links": [
       {
         "title": "Low or High Fidelity Image Understanding - OpenAI",
-        "url": "https://platform.openai.com/docs/guides/vision/low-or-high-fidelity-image-understanding",
+        "url": "https://platform.openai.com/docs/guides/images",
         "type": "article"
       }
     ]

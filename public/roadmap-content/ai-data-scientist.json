@@ -49,6 +49,11 @@
         "title": "Algebra and Differential Calculus for Data Science",
         "url": "https://imp.i384100.net/LX5M7M",
         "type": "article"
+      },
+      {
+        "title": "Calculus Youtube Course",
+        "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+        "type": "video"
       }
     ]
   },
@@ -106,7 +111,7 @@
       },
       {
         "title": "Step by Step Process for Planning an A/B Test",
-        "url": "https://towardsdatascience.com/step-by-step-for-planning-an-a-b-test-ef3c93143c0b",
+        "url": "https://medium.com/data-science/step-by-step-for-planning-an-a-b-test-ef3c93143c0b",
         "type": "article"
       },
       {
